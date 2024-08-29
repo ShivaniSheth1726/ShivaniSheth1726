@@ -29,7 +29,7 @@
       width="40"
   /></a>
   <a
-    href="[https://linkedin.com/in/www.linkedin.com/in/shivani-sheth-mehta-b324b81b9](https://www.linkedin.com/in/shivani-sheth-mehta-b324b81b9/)](https://linkedin.com/in/www.linkedin.com/in/shivani-sheth-mehta-b324b81b9)"
+    href="https://www.linkedin.com/in/shivani-sheth-mehta-b324b81b9/"
     target="blank"
     ><img
       align="center"
