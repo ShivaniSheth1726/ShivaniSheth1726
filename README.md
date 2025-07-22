@@ -12,7 +12,7 @@
 - 👨‍💻 All of my projects are available at [shivanimehtasheth.netlify.app](https://shivanimehtasheth.netlify.app)
 - 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, React**
 - 📫 How to reach me: **shethshivani1726@gmail.com**
-- 📄 Know more about my experience: [View My Resume](https://drive.google.com/file/d/1Bx44YJ6-MS2cKfxVZwV1XvcXueaE4kAg/view)
+- 📄 Know more about my experience: [View My Resume](https://drive.google.com/file/d/1N2DsoZhqWr2qreGE1XBQOO6qI7LIT37K/view?usp=sharing)
 - ⚡ Fun fact: **I love bringing creativity into code and... I'm funny 😄**
 
 ---
